@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+    background-image: url("simon1.jpg");
+}
+.photo{
+    background-color: rgba(255, 255, 255, 0.887);
+    margin-top: 2rem;
+}
+.h2{
+    padding: 5px;
+    background-color: #252323;
+    font-family: "Bungee Spice", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 0%;
+}
+.btn{
+    height: 200px;
+    width: 200px;
+    border: 7px solid black;
+    border-radius: 20%;
+    margin: 1.5rem;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+    background-color: rgba(255, 255, 255, 0.51);
+    margin: 0%;
+}
+.red{
+    background-color: #ae2012;
+    box-shadow: 10px 5px 5px #8a817c;
+}
+.green{
+    background-color: #aacc00;
+    box-shadow: 10px 5px 5px #8a817c;
+}
+.purple{
+    background-color: #00509d;
+    box-shadow: 10px 5px 5px #8a817c;
+}
+.yellow{
+    background-color: #f05d23;
+    box-shadow: 10px 5px 5px #8a817c;
+}
+.flash{
+    background-color: white;
+}
+.userFlash{
+    background-color: whitesmoke;
+}
